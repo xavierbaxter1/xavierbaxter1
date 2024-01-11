@@ -1,10 +1,7 @@
-![image](https://github.com/xavierbaxter1/xavierbaxter1/assets/156106709/9ffee92a-f5c6-45f8-a2cd-a80f79661dbc)Xavier Baxter
+# Xavier Baxter
 
-Hello all!
+## Hello all!
 
 Welcome to my St. Andrews College (www.sac.on.ca) profile.
 
-
-
-![![image](https://github.com/xavierbaxter1/xavierbaxter1/assets/156106709/b139652d-49c5-493a-afce-d627974da301)
-]
+![SAC Logo](https://github.com/xavierbaxter1/xavierbaxter1/assets/156106709/e9b19f21-7821-4387-9e33-676778f3b6dd)
